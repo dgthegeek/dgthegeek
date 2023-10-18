@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgthegeek&label=Profile%20views&color=0e75b6&style=flat" alt="dgthegeek" /> </p>
 
-- 🔭 I’m currently working on **Track Order**
+- 🔭 I’m currently working on **Ball Breaker Game**
 
 - 🌱 I’m currently learning **Rust, Anvanced JS, Electron and Ract Native**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **damegaye1887@gmail.com**
 
-- 📄 Know about my experiences [1,5 years (Go, js, react ...)](1,5 years (Go, js, react ...))
+- 📄 Know about my experiences 1,5 years (Go, js, react ...)
 
 - ⚡ Fun fact **I'm also a full snack dev**
 
