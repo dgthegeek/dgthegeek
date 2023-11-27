@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgthegeek&label=Profile%20views&color=0e75b6&style=flat" alt="dgthegeek" /> </p>
 
-- 🔭 I’m currently working on **Youtube-clone**
+- 🔭 I’m currently working on **An fullstack e-commerce website**
 
 - 🌱 I’m currently learning **Rust, Anvanced JS, Electron and Ract Native**
 
