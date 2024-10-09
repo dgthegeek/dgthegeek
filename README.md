@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **A fullstack e-commerce website**
 
-- 🌱 I’m currently learning **Rust, Anvanced JS, Electron and Ract Native**
+- 🌱 I’m currently learning **Advanced Java, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dgthegeek (not All)](https://github.com/dgthegeek (not All))
+- 👨‍💻 All of my projects are available at [https://github.com/dgthegeek (not All)](https://github.com/dgthegeek) 
 
-- 💬 Ask me about **React, Go, iOs**
+- 💬 Ask me about **Python, Go, Cybersecurity, Java...**
 
 - 📫 How to reach me **damegaye1887@gmail.com**
 
-- 📄 Know about my experiences 1,5 years (Go, js, react ...)
+- 📄 Know about my experiences 2 years (Python, Go, react, Java, Spring Boot, Pentesting...)
 
 - ⚡ Fun fact **I'm also a full snack dev**
 
