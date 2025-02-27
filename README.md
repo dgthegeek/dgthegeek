@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced Java, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dgthegeek (not All)](https://github.com/dgthegeek) 
+- 👨‍💻 Some of my projects are available at [https://github.com/dgthegeek](https://github.com/dgthegeek) 
 
 - 💬 Ask me about **Python, Go, Cybersecurity, Java...**
 
